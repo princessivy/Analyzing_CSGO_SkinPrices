@@ -5,13 +5,11 @@ Ziel: Sammeln eines großen Datensatzes von Skin-Preisen. Anschließend sollten 
 ### Übersicht der Files im Projekt
 | File | Beschreibung |
 | --- | --- |
-| [CSGO_Crawler.py](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Crawler.py) | Dieser Code wurd genutzt, um die Daten aus [Skinport](https://skinport.com) zu extrahieren - der Output des Codes ist in der Datei [allitems.csv](https://drive.google.com/file/d/12HyWiR1LFt9Jpp1zG0RlbUeI-FhVsT4F/view?usp=sharing) einsehbar |
-| [CSGO_Colorfulness.py](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Colorfulness.py) | Dieser Code wurde genutzt, um die gesammelten Daten mit dem Feature 'colorfulness' anzureichern - der Output des Codes ist in der Datei [allitems_w_colors.csv](https://drive.google.com/file/d/1-FDwI__Ci8fGxpFblqMqJw8hknOLNInT/view?usp=sharing) einsehbar |
+| [CSGO_Crawler.py](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Crawler.py) | Dieser Code wurd genutzt, um die Daten aus [Skinport](https://skinport.com) zu extrahieren - der Output des Codes ist in der Datei [allitems.csv](https://drive.google.com/file/d/12HyWiR1LFt9Jpp1zG0RlbUeI-FhVsT4F/view?usp=sharing) einsehbar; Achtung: für [allitems.csv](https://drive.google.com/file/d/12HyWiR1LFt9Jpp1zG0RlbUeI-FhVsT4F/view?usp=sharing) wurden nur die richtigen Skins gecrawled. In der py-Datei befindet sich allerdings auch der Code, um alle anderen Items zu crawlen (ist in der Datei selbest beschrieben) - Ausführung des Codes: Beginn am 26.03.2022 um 11:58 Uhr, Ende am 27.03.2022 um 15:01 Uhr |
+| [CSGO_Colorfulness.py](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Colorfulness.py) | Dieser Code wurde genutzt, um die gesammelten Daten mit dem Feature 'colorfulness' anzureichern - der Output des Codes ist in der Datei [allitems_w_colors.csv](https://drive.google.com/file/d/1-FDwI__Ci8fGxpFblqMqJw8hknOLNInT/view?usp=sharing) einsehbar - Ausführung des Codes: Beginn am 13.04.2022 um 9:29 Uhr, Ende am 14.04.2022 um 14:20 Uhr |
 | [CSGO_Analytics.ipynb](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Analytics.ipynb) | Hier findet die ganze Analytics und Auswertung statt - inklusive Ergebnisse |
   
     
-      
-        
 
 
 ### Benötigte Daten aus GoogleDrive
