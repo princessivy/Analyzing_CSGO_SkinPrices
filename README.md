@@ -1,4 +1,5 @@
 # Analyzing CS:GO Skin-Prices
+Ziel: Sammeln eines großen Datensatzes von Skin-Preisen. Anschließend sollten die Daten analysiert werden und Features gefunden werden, die die Preise der einzelnen Skins erklären.
 
 
 ### Übersicht der Files im Projekt
