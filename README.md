@@ -1,4 +1,4 @@
-# Analyzing_CSGO_SkinPrices
+# Analyzing CS:GO Skin-Prices
 
 
 ### Übersicht der Files im Projekt
