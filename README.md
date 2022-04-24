@@ -5,9 +5,9 @@ Ziel: Sammeln eines großen Datensatzes von Skin-Preisen. Anschließend sollten 
 ### Übersicht der Files im Projekt
 | File | Beschreibung |
 | --- | --- |
-| [CSGO_Crawler.py](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Crawler.py) | XX |
-| [CSGO_Colorfulness.py](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Colorfulness.py) | XX |
-| [CSGO_Analytics.ipynb](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Analytics.ipynb) | XX |
+| [CSGO_Crawler.py](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Crawler.py) | Dieser Code wurd genutzt, um die Daten aus [Skinport](https://skinport.com) zu extrahieren - der Output des Codes ist in der Datei [allitems.csv](https://drive.google.com/file/d/12HyWiR1LFt9Jpp1zG0RlbUeI-FhVsT4F/view?usp=sharing) einsehbar |
+| [CSGO_Colorfulness.py](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Colorfulness.py) | Dieser Code wurde genutzt, um die gesammelten Daten mit dem Feature 'colorfulness' anzureichern - der Output des Codes ist in der Datei [allitems_w_colors.csv](https://drive.google.com/file/d/1-FDwI__Ci8fGxpFblqMqJw8hknOLNInT/view?usp=sharing) einsehbar |
+| [CSGO_Analytics.ipynb](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Analytics.ipynb) | Hier findet die ganze Analytics und Auswertung zum Thema statt - inklusive Ergebnisse |
   
     
       
