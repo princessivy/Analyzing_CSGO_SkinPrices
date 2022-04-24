@@ -1,7 +1,7 @@
 # Analyzing_CSGO_SkinPrices
 
 
-## Übersicht der Files im Projekt
+### Übersicht der Files im Projekt
 | File | Beschreibung |
 | --- | --- |
 | [CSGO_Crawler.py](https://github.com/princessivy/Analyzing_CSGO_SkinPrices/blob/main/CSGO_Crawler.py) | XX |
