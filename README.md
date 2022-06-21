@@ -15,7 +15,7 @@ Ziel: Sammeln eines großen Datensatzes von Skin-Preisen. Anschließend sollten 
 
 ### Benötigte Daten aus GoogleDrive
 [Dieser Link](https://drive.google.com/drive/folders/1jo_B2uZqdP_QrxFDANSfYoqUNVIo9V4e?usp=sharing) führt zum GoogleDrive-Ordner, in welchem die benötigten Daten gespeichert sind.  
-Darin befinden sich folgende Dateien:
+Darin befinden sich folgenden Dateien:
 
 
 | File | Beschreibung |
